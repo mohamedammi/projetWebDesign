@@ -69,13 +69,18 @@ a:hover {
   color: #00cecb;
 }
 
-h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+h1{
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 70px;
+  color:  #00cecb;
 }
 
 .bg-primary {
