@@ -257,6 +257,10 @@ header.masthead p {
   }
 }
 
+i > img {
+  width: 18%;
+}
+
 .services {
   background-color: #fffef9;
 }
