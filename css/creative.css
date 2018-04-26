@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   background-color: azure;
 }
 
@@ -75,11 +75,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  
+  font-family: 'Fjalla One', 'Helvetica Neue', Arial, sans-serif;
+  text-transform: uppercase;  
 }
 
 h1{
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Fjalla One', 'Helvetica Neue', Arial, sans-serif;
+  text-transform: uppercase;
   font-size: 70px;
   color:  #00cecb;
 }
@@ -356,7 +359,7 @@ i > img {
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #ee4b28 !important;
+  background-color: #ffe415 !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
