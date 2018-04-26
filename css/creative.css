@@ -134,6 +134,7 @@ img::-moz-selection {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
+  background-color: white;
 }
 
 #mainNav .navbar-brand {
@@ -239,7 +240,7 @@ header.masthead p {
 
 @media (min-width: 768px) {
   header.masthead p {
-    font-size: 1.15rem;
+    font-size: 1rem;
   }
 }
 
@@ -363,7 +364,7 @@ i > img {
 }
 
 .btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem #ffe415 !important;
 }
 
 
